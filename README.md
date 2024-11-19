@@ -104,7 +104,10 @@ For Transient Analysis Settings and Output
 
  ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
 
-  
-
-Results:
+  Results:
 The design and implementation of the 2-bit multiplier using Cadence EDA tools were successfully carried out. The simulation results confirmed the correct operation of the multiplier for all input combinations. 
+
+
+
+
+
